@@ -7,7 +7,7 @@ hi, im LNIR947 🔮.
 + living in israel.
 - 15 years old
 ! Interested in c#, Python, Pen-Testing, Flutter, Web-Development
-  and any other sruff connected with computers.
+! and any other sruff connected with computers.
 ```
 ------
 [LNIR947](https://github.com/jewdev)
