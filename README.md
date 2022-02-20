@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @lnir947
-- 👀 I’m interested in Python, Linux, C#, Flutter, Cyber-Security, and lots of other stuff.
-- 🌱 I’m currently learning Python, Linux, C#, Flutter and Cyber-Security.
-- 💞️ I’m looking to collaborate on everything I mentioned before, and any other computer things.
-- 📫 Email: Lnir947@gmail.com
-- No one cares
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
-<!---
-lnir947/lnir947 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```diff
+hi, im LNIR947 🔮.
+
+@@programming student.@@
++ living in israel.
+- 15 years old
+! Interested in c#, Python, Pen-Testing, Flutter, Web-Development
+  and any other sruff connected with computers.
+```
+------
+[LNIR947](https://github.com/jewdev)
+Last Edited on: 20/03/2022
