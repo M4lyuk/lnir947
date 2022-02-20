@@ -10,5 +10,10 @@ hi, im LNIR947 🔮.
 ! and any other sruff connected with computers.
 ```
 ------
+## How to reach me
+Instagram: @LNIR497
+
+Gmail: lnir947@gmail.com
+
 [LNIR947](https://github.com/jewdev)
 Last Edited on: 20/03/2022
