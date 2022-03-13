@@ -6,7 +6,7 @@ hi, im LNIR947 🔮.
 @@programming student.@@
 + living in israel.
 - 15 years old
-! Interested in c#, Python, Pen-Testing, Flutter, Web-Development
+! Interested in c#, Python, Pen-Testing, Web-Development
 ! and any other sruff connected with computers.
 ```
 ------
