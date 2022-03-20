@@ -1,7 +1,7 @@
 <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 ```diff
-hi, im LNIR947 🔮.
+hi, im M4lyuck 🔮.
 
 @@programming student.@@
 + living in israel.
