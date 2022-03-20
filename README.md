@@ -12,8 +12,5 @@ hi, im LNIR947 🔮.
 ------
 ## How to reach me
 Instagram: @LNIR497
-
 Gmail: lnir947@gmail.com
-
-[LNIR947](https://github.com/jewdev)
-Last Edited on: 20/03/2022
+Discord: M4lyuk#4582
