@@ -12,5 +12,7 @@ hi, im LNIR947 🔮.
 ------
 ## How to reach me
 Instagram: @LNIR497
+
 Gmail: lnir947@gmail.com
+
 Discord: M4lyuk#4582
