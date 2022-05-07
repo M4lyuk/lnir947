@@ -7,7 +7,7 @@ hi, im M4lyuck 🔮.
 + living in israel.
 - 16 years old
 ! Interested in Python, C#, Pen-Testing and Malware-Development
-! and any other sruff connected with computers.
+! and any other stuff connected with computers.
 ```
 ------
 ## How to reach me
